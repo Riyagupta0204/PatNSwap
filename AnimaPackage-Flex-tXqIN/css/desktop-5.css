@@ -1,0 +1,345 @@
+/* screen - desktop-5 */
+
+.desktop-5 {
+  align-items: center;
+  background-color: var(--black);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1301px;
+  padding: 25px 29px;
+  width: 1440px;
+}
+
+.desktop-5 .frame-11::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.desktop-5 .frame-11 {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  overflow-x: scroll;
+  position: relative;
+  width: fit-content;
+}
+
+.desktop-5 .group-53 {
+  height: 58px;
+  margin-right: -8.00px;
+  min-width: 1389.79px;
+  position: relative;
+}
+
+.desktop-5 .flex-row {
+  align-items: center;
+  display: flex;
+  min-width: 1382px;
+}
+
+.desktop-5 .ellipse-1 {
+  background-color: #d9d9d9;
+  border-radius: 27px;
+  height: 54px;
+  margin-bottom: 2.0px;
+  width: 54px;
+}
+
+.desktop-5 .overlap-group {
+  height: 58px;
+  margin-left: 24px;
+  position: relative;
+  width: 772px;
+}
+
+.desktop-5 .rectangle-13 {
+  background-color: #d9d9d947;
+  border-radius: 13px;
+  height: 58px;
+  left: 119px;
+  position: absolute;
+  top: 0;
+  width: 653px;
+}
+
+.desktop-5 .search-for-patents {
+  color: var(--white);
+  font-family: var(--font-family-gotham_thin-italic);
+  font-size: var(--font-size-l);
+  font-style: italic;
+  font-weight: 400;
+  left: 140px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 17px;
+  width: 429px;
+}
+
+.desktop-5 .icon-search-normal-1 {
+  height: 27px;
+  left: 713px;
+  position: absolute;
+  top: 15px;
+  width: 29px;
+}
+
+.desktop-5 .place {
+  color: var(--white);
+  font-family: var(--font-family-gotham_black-regular);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  width: 188px;
+}
+
+.desktop-5 .place-1 {
+  color: #ffffffab;
+  font-family: var(--font-family-gotham-book);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 30px;
+  margin-top: 1.0px;
+  min-height: 29px;
+  width: 100px;
+}
+
+.desktop-5 .marketplace {
+  color: #ffffffab;
+  font-family: var(--font-family-gotham-book);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 15px;
+  margin-top: 1.0px;
+  min-height: 29px;
+  width: 188px;
+}
+
+.desktop-5 .icon-profile-circle {
+  height: 41px;
+  margin-bottom: 5.0px;
+  margin-left: 14px;
+  width: 40px;
+}
+
+.desktop-5 .icon-heart {
+  height: 37px;
+  margin-bottom: 5.13px;
+  margin-left: 31px;
+  width: 41px;
+}
+
+.desktop-5 .icon-cart {
+  height: 33px;
+  margin-bottom: 1.0px;
+  margin-left: 30px;
+  width: 43px;
+}
+
+.desktop-5 .flex-row-1 {
+  align-items: flex-end;
+  display: flex;
+  gap: 58px;
+  margin-right: 5.0px;
+  margin-top: 167px;
+  min-width: 1221px;
+}
+
+.desktop-5 .group-23 {
+  cursor: pointer;
+  height: 432px;
+  transition: all 0.2s ease;
+  width: 479px;
+}
+
+.desktop-5 .group-23:hover {
+  transform: scale(1.1);
+}
+
+.desktop-5 .flex-col {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 415px;
+  width: 684px;
+}
+
+.desktop-5 .flex-row-2 {
+  align-items: center;
+  align-self: flex-start;
+  display: flex;
+  min-width: 638px;
+}
+
+.desktop-5 .ellipse-12 {
+  cursor: pointer;
+  height: 112px;
+  object-fit: cover;
+  transition: all 0.2s ease;
+  width: 114px;
+}
+
+.desktop-5 .ellipse-12:hover {
+  transform: scale(1.1);
+}
+
+.desktop-5 .nandini-parashar {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 15.0px;
+  margin-left: 30px;
+  min-height: 33px;
+  width: 242px;
+}
+
+.desktop-5 .overlap-group4 {
+  border-radius: 40px;
+  height: 57px;
+  margin-bottom: 13.0px;
+  margin-left: 47px;
+  position: relative;
+  width: 205px;
+}
+
+.desktop-5 .rectangle-5 {
+  background: linear-gradient(180deg, rgb(15, 223, 229) 0%, rgb(243.31, 0, 207.27) 100%);
+  border-radius: 40px;
+  cursor: pointer;
+  height: 57px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 205px;
+}
+
+.desktop-5 .rectangle-5:hover {
+  transform: scale(1.1);
+}
+
+.desktop-5 .connect-wallet {
+  color: var(--white);
+  font-family: var(--font-family-gotham-bold);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  height: 24px;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  width: 184px;
+}
+
+.desktop-5 .overlap-group1 {
+  height: 70px;
+  margin-top: 38px;
+  position: relative;
+  width: 597px;
+}
+
+.desktop-5 .rectangle {
+  cursor: pointer;
+  height: 70px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 597px;
+}
+
+.desktop-5 .rectangle:hover {
+  transform: scale(1.1);
+}
+
+.desktop-5 .enter-genre {
+  left: 223px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+  width: 151px;
+}
+
+.desktop-5 .overlap-group2 {
+  height: 70px;
+  margin-top: 25px;
+  position: relative;
+  width: 597px;
+}
+
+.desktop-5 .enter-patent-id {
+  left: 199px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+  width: 271px;
+}
+
+.desktop-5 .overlap-group5 {
+  align-self: center;
+  border-radius: 40px;
+  height: 57px;
+  margin-left: 87.0px;
+  margin-top: 43px;
+  position: relative;
+  width: 205px;
+}
+
+.desktop-5 .verify {
+  color: var(--white);
+  cursor: pointer;
+  font-family: var(--font-family-gotham-bold);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  height: 24px;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  width: 184px;
+}
+
+.desktop-5 .overlap-group3 {
+  height: 538px;
+  margin-right: 23.0px;
+  margin-top: 23px;
+  position: relative;
+  width: 1217px;
+}
+
+.desktop-5 .nft-preview-connec {
+  color: var(--white);
+  font-family: var(--font-family-gotham_black-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 525px;
+}
+
+.desktop-5 .bottom-macbook {
+  height: 527px;
+  left: 7px;
+  position: absolute;
+  top: 11px;
+  width: 1210px;
+}

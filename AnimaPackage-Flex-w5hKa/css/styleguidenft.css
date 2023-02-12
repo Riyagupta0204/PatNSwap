@@ -1,0 +1,68 @@
+:root { 
+  --black: #000000;
+  --purple-pizzazz: #f300cf;
+  --white: #ffffff;
+  --white-2: #ffffffab;
+ 
+  --font-size-l: 24px;
+  --font-size-m: 23px;
+  --font-size-s: 22px;
+  --font-size-xl: 34px;
+  --font-size-xs: 20px;
+  --font-size-xxl: 40px;
+  --font-size-xxs: 16px;
+ 
+  --font-family-gotham-bold: "Gotham-Bold", Helvetica;
+  --font-family-gotham-book: "Gotham-Book", Helvetica;
+  --font-family-gotham-light: "Gotham-Light", Helvetica;
+  --font-family-gotham_black-regular: "Gotham Black-Regular", Helvetica;
+  --font-family-gotham_thin-italic: "Gotham Thin-Italic", Helvetica;
+  --font-family-gotham_thin-regular: "Gotham Thin-Regular", Helvetica;
+}
+.gotham-book-normal-white-23px {
+  color: var(--white-2);
+  font-family: var(--font-family-gotham-book);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gotham-bold-white-22px {
+  color: var(--white);
+  font-family: var(--font-family-gotham-bold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gothamblack-regular-normal-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-gotham_black-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gotham-light-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-gotham-light);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.gothamblack-regular-normal-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-gotham_black-regular);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gothamblack-regular-normal-white-34px {
+  color: var(--white);
+  font-family: var(--font-family-gotham_black-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}

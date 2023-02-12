@@ -1,0 +1,51 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/63dcb9b05c6b2b505d4b35dd.63dcb9b2adcdfbdea71f4fe9.s367o6B.hcp.png");
+
+@font-face {
+  font-family: "Gotham Black-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Gotham-Black.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Gotham-Book";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Gotham-Book.otf") format("opentype");
+}
+@font-face {
+  font-family: "Gotham-Light";
+  font-style: normal;
+  font-weight: 300;
+  src: url("../fonts/Gotham Thin.otf") format("opentype");
+}
+@font-face {
+  font-family: "Gotham Thin-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Gotham-Bold.otf") format("opentype");
+}
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+* {
+  box-sizing: border-box;
+}

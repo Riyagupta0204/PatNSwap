@@ -1,0 +1,1348 @@
+/* screen - desktop-1 */
+
+.desktop-1 {
+  align-items: flex-start;
+  background-color: #141414;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 3830px;
+  overflow: hidden;
+  width: 1472px;
+}
+
+.desktop-1 .hero-heading-left {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  gap: 80px;
+  justify-content: center;
+  left: -4822px;
+  padding: 64px 24px;
+  position: fixed;
+  top: -2093px;
+  width: 1440px;
+  z-index: 5;
+}
+
+.desktop-1 .container {
+  align-items: center;
+  display: flex;
+  gap: 80px;
+  position: relative;
+  width: 1200px;
+}
+
+.desktop-1 .column {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+}
+
+.desktop-1 .content {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+}
+
+.desktop-1 .h1-title-copy-goes-here-be-awesome {
+  align-self: stretch;
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxxxl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 67.2px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.desktop-1 .p-lorem-ipsum-dol {
+  align-self: stretch;
+  color: #212121;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: relative;
+}
+
+.desktop-1 .actions {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  padding: 16px 0px 0px;
+  position: relative;
+  width: fit-content;
+}
+
+.desktop-1 .button {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  padding: 12px 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.desktop-1 .get-started {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-1 .column-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  position: relative;
+}
+
+.desktop-1 .image-wrapper {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.desktop-1 .image {
+  align-self: stretch;
+  background-image: url(../img/image.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 392.9px;
+  min-width: 560px;
+  position: relative;
+}
+
+.desktop-1 .navbar-logo-left {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  justify-content: center;
+  left: -4822px;
+  padding: 0px 24px;
+  position: fixed;
+  top: -1867px;
+  width: 1440px;
+  z-index: 4;
+}
+
+.desktop-1 .navbar-container {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  width: 1200px;
+}
+
+.desktop-1 .navbar-content {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  width: 1200px;
+}
+
+.desktop-1 .navbar-brand {
+  height: 36px;
+  margin-bottom: -5289.75px;
+  margin-right: -7620.86px;
+  min-width: 141px;
+  position: relative;
+}
+
+.desktop-1 .navbar-menu {
+  align-items: center;
+  display: flex;
+  gap: 32px;
+  margin-left: -8054.86px;
+  position: relative;
+  width: fit-content;
+}
+
+.desktop-1 .navbar-link {
+  align-items: flex-start;
+  display: flex;
+  padding: 24px 12px;
+  position: relative;
+  width: fit-content;
+}
+
+.desktop-1 .about {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-1 .features {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-1 .pricing {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-1 .button-1 {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  padding: 8px 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.desktop-1 .flex-row {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  gap: 40px;
+  height: 2637px;
+  margin-top: 40px;
+  min-width: 1437px;
+  z-index: 1;
+}
+
+.desktop-1 .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 2637px;
+  width: 1395px;
+}
+
+.desktop-1 .flex-col-1 {
+  align-items: center;
+  margin-right: 5.21px;
+  min-height: 812px;
+  width: 1390px;
+}
+
+.desktop-1 .group-54 {
+  align-items: center;
+  display: flex;
+  min-width: 1390px;
+}
+
+.desktop-1 .ellipse-1 {
+  background-color: #d9d9d9;
+  border-radius: 27px;
+  height: 54px;
+  margin-bottom: 2.0px;
+  width: 54px;
+}
+
+.desktop-1 .overlap-group9 {
+  height: 58px;
+  margin-left: 24px;
+  position: relative;
+  width: 772px;
+}
+
+.desktop-1 .rectangle-13 {
+  background-color: #d9d9d947;
+  border-radius: 13px;
+  height: 58px;
+  left: 119px;
+  position: absolute;
+  top: 0;
+  width: 653px;
+}
+
+.desktop-1 .search-for-patents {
+  color: var(--white);
+  font-family: var(--font-family-gotham_thin-italic);
+  font-size: var(--font-size-xl);
+  font-style: italic;
+  font-weight: 400;
+  left: 140px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 17px;
+  width: 429px;
+}
+
+.desktop-1 .icon-search-normal-1 {
+  height: 26px;
+  left: 713px;
+  position: absolute;
+  top: 13px;
+  width: 29px;
+}
+
+.desktop-1 .place {
+  color: var(--white);
+  font-family: var(--font-family-gotham_black-regular);
+  font-size: 32px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  width: 188px;
+}
+
+.desktop-1 .place-1 {
+  color: var(--white-2);
+  cursor: pointer;
+  font-family: var(--font-family-gotham-book);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 30px;
+  margin-top: 1.0px;
+  min-height: 29px;
+  transition: all 0.2s ease;
+  width: 100px;
+}
+
+.desktop-1 .place-1:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.desktop-1 .marketplace {
+  color: var(--white-2);
+  cursor: pointer;
+  font-family: var(--font-family-gotham-book);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 15px;
+  margin-top: 1.0px;
+  min-height: 29px;
+  transition: all 0.2s ease;
+  width: 188px;
+}
+
+.desktop-1 .marketplace:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.desktop-1 .icon-profile-circle {
+  cursor: pointer;
+  height: 40px;
+  margin-bottom: 8.88px;
+  margin-left: 14px;
+  transition: all 0.2s ease;
+  width: 40px;
+}
+
+.desktop-1 .icon-heart {
+  cursor: pointer;
+  height: 39px;
+  margin-bottom: 9.0px;
+  margin-left: 29px;
+  transition: all 0.2s ease;
+  width: 44px;
+}
+
+.desktop-1 .icon-heart:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.desktop-1 .icon-cart {
+  cursor: pointer;
+  height: 33px;
+  margin-bottom: 6.52px;
+  margin-left: 27px;
+  transition: all 0.2s ease;
+  width: 44px;
+}
+
+.desktop-1 .icon-cart:hover {
+  transform: scale(1.1);
+}
+
+.desktop-1 .flex-row-1 {
+  align-items: center;
+  display: flex;
+  gap: 93px;
+  height: 483px;
+  margin-left: 59.21px;
+  margin-top: 103px;
+  min-width: 1173px;
+}
+
+.desktop-1 .flex-col-2 {
+  align-items: flex-start;
+  min-height: 483px;
+  width: 501px;
+}
+
+.desktop-1 .discover-rare-collec {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 31px;
+  min-height: 148px;
+  width: 340px;
+}
+
+.desktop-1 .lorem-ipsum-dolor-si {
+  align-self: flex-end;
+  color: #ffffff66;
+  font-family: var(--font-family-gotham_black-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 44px;
+  min-height: 46px;
+  width: 474px;
+}
+
+.desktop-1 .overlap-group15 {
+  height: 44px;
+  margin-left: 19px;
+  margin-top: 34px;
+  position: relative;
+  width: 283px;
+}
+
+.desktop-1 .explore-now {
+  color: #ffffffb8;
+  font-family: var(--font-family-gotham-bold);
+  font-size: 15px;
+  font-weight: 700;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+  width: 264px;
+}
+
+.desktop-1 .basic-outline-buttonsmallfocusfalse {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 133px;
+}
+
+.desktop-1 .basic-outline-buttonsmallfocusfalse:hover {
+  transform: scale(1.1);
+}
+
+.desktop-1 .basic-outline-small-base {
+  align-items: flex-start;
+  align-self: stretch;
+  border: 1px solid;
+  border-color: #fafbff;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -1.00px;
+  margin-left: -1.00px;
+  margin-right: -1.00px;
+  margin-top: -1.00px;
+  padding: 8px 16px;
+  position: relative;
+}
+
+.desktop-1 .overlap-group14 {
+  height: 114px;
+  margin-top: 53px;
+  position: relative;
+  width: 442px;
+}
+
+.desktop-1 .rectangle-16 {
+  background-color: #ffffff08;
+  border: 1px solid;
+  border-color: #fbfafa0a;
+  border-radius: 4px;
+  height: 114px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 438px;
+}
+
+.desktop-1 .line-2 {
+  left: 175px;
+  top: 14px;
+}
+
+.desktop-1 .line-3 {
+  left: 291px;
+  top: 16px;
+}
+
+.desktop-1 .x100k-active-users {
+  left: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 25px;
+  width: 139px;
+}
+
+.desktop-1 .span-1 {
+  color: var(--white);
+  font-weight: 700;
+}
+
+.desktop-1 .x2k-patents {
+  left: 163px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 25px;
+  width: 139px;
+}
+
+.desktop-1 .x1k-patents {
+  left: 303px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 29px;
+  width: 139px;
+}
+
+.desktop-1 .rectangle-89 {
+  height: 371px;
+  margin-bottom: 20.0px;
+  object-fit: cover;
+  width: 579px;
+}
+
+.desktop-1 .create-and-sell-your-patents {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 75.21px;
+  margin-top: 78px;
+  min-height: 90px;
+  text-align: center;
+  width: 769px;
+}
+
+.desktop-1 .overlap-group-container {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 35px;
+  height: 276px;
+  margin-top: 48px;
+  min-width: 1378px;
+}
+
+.desktop-1 .overlap-group1 {
+  border-radius: 36px;
+  height: 275px;
+  position: relative;
+  width: 436px;
+}
+
+.desktop-1 .connect-to-wallet {
+  cursor: pointer;
+  left: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 119px;
+  width: 264px;
+}
+
+.desktop-1 .rectangle-17 {
+  background: linear-gradient(180deg, rgb(211, 49, 187) 0%, rgb(85.91, 64.44, 217.81) 78.12%);
+  border: 1px solid;
+  border-color: var(--swirl);
+  border-radius: 36px;
+  cursor: pointer;
+  height: 275px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 436px;
+}
+
+.desktop-1 .rectangle-17:hover {
+  transform: scale(1.1);
+}
+
+.desktop-1 .what-are-nf-ts {
+  cursor: pointer;
+  left: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 88px;
+  width: 224px;
+}
+
+.desktop-1 .and-why-should-you-c {
+  cursor: pointer;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 136px;
+  width: 180px;
+}
+
+.desktop-1 .sfdwetr-1 {
+  cursor: pointer;
+  height: 217px;
+  left: 206px;
+  object-fit: cover;
+  position: absolute;
+  top: 29px;
+  width: 217px;
+}
+
+.desktop-1 .overlap-group12 {
+  align-self: flex-end;
+  border-radius: 36px;
+  height: 275px;
+  position: relative;
+  width: 436px;
+}
+
+.desktop-1 .rectangle-83 {
+  background: linear-gradient(180deg, rgb(211, 49, 187) 25.52%, rgb(85.91, 64.44, 217.81) 100%);
+  border: 1px solid;
+  border-color: var(--swirl);
+  border-radius: 36px;
+  cursor: pointer;
+  height: 275px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 436px;
+}
+
+.desktop-1 .rectangle-83:hover {
+  transform: scale(1.1);
+}
+
+.desktop-1 .patents-as-nft {
+  cursor: pointer;
+  left: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 87px;
+  width: 224px;
+}
+
+.desktop-1 .how-do-you-use-a-pat {
+  cursor: pointer;
+  left: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 127px;
+  width: 165px;
+}
+
+.desktop-1 .x3-1 {
+  cursor: pointer;
+  height: 208px;
+  left: 224px;
+  top: 31px;
+  width: 208px;
+}
+
+.desktop-1 .rectangle-84 {
+  background: linear-gradient(180deg, rgb(211, 49, 187) 0%, rgb(85.91, 64.44, 217.81) 97.45%);
+  border: 1px solid;
+  border-color: var(--swirl);
+  border-radius: 36px;
+  cursor: pointer;
+  height: 275px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 436px;
+}
+
+.desktop-1 .rectangle-84:hover {
+  transform: scale(1.1);
+}
+
+.desktop-1 .how-does-name-work {
+  cursor: pointer;
+  left: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 76px;
+  width: 178px;
+}
+
+.desktop-1 .know-about-our-frame {
+  cursor: pointer;
+  left: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 144px;
+  width: 191px;
+}
+
+.desktop-1 .x1-1 {
+  cursor: pointer;
+  height: 223px;
+  left: 198px;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 238px;
+}
+
+.desktop-1 .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 3px;
+  height: 297px;
+  margin-left: 32.0px;
+  margin-top: 123px;
+  min-width: 1301px;
+}
+
+.desktop-1 .flex-col-3 {
+  align-items: flex-start;
+  gap: 35px;
+  min-height: 171px;
+  width: 1023px;
+}
+
+.desktop-1 .what-are-nf-ts-1 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 90px;
+  text-align: center;
+  width: 769px;
+}
+
+.desktop-1 .non-fungible-tokens {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 46px;
+  width: 981px;
+}
+
+.desktop-1 .x1-3 {
+  align-self: flex-end;
+  height: 275px;
+  object-fit: cover;
+  width: 275px;
+}
+
+.desktop-1 .overlap-group17 {
+  height: 300px;
+  margin-left: 32.0px;
+  margin-top: 116px;
+  position: relative;
+  width: 1301px;
+}
+
+.desktop-1 .non-fungible-tokens-1 {
+  top: 125px;
+}
+
+.desktop-1 .overlap-group13 {
+  height: 300px;
+  left: 254px;
+  position: absolute;
+  top: 0;
+  width: 1047px;
+}
+
+.desktop-1 .patents-as-nft-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 769px;
+}
+
+.desktop-1 .x3-2 {
+  height: 282px;
+  left: 765px;
+  top: 18px;
+  width: 282px;
+}
+
+.desktop-1 .overlap-group18 {
+  align-self: flex-end;
+  height: 322px;
+  margin-right: 11px;
+  margin-top: 71px;
+  position: relative;
+  width: 1321px;
+}
+
+.desktop-1 .non-fungible-tokens-2 {
+  top: 160px;
+}
+
+.desktop-1 .overlap-group16 {
+  height: 322px;
+  left: 254px;
+  position: absolute;
+  top: 0;
+  width: 1067px;
+}
+
+.desktop-1 .how-does-name-work-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 35px;
+  width: 769px;
+}
+
+.desktop-1 .abcc-1 {
+  height: 322px;
+  left: 745px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 322px;
+}
+
+.desktop-1 .explore {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 63px;
+  margin-top: 182px;
+  min-height: 90px;
+  width: 230px;
+}
+
+.desktop-1 .icon-heart-1 {
+  height: 74px;
+  margin-bottom: 343.95px;
+  width: 2px;
+}
+
+.desktop-1 .frame-61::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.desktop-1 .frame-61 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 359px;
+  margin-top: 33px;
+  overflow: hidden;
+  overflow-x: scroll;
+  width: 1382px;
+  z-index: 2;
+}
+
+.desktop-1 .group-29 {
+  align-items: flex-start;
+  align-self: flex-end;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.54px;
+  min-height: 354px;
+  transition: all 0.2s ease;
+  width: 313px;
+}
+
+.desktop-1 .group-29:hover {
+  transform: scale(1.1);
+}
+
+.desktop-1 .group-22 {
+  background-image: url(../img/rectangle-26-3@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 283px;
+  margin-left: 0;
+  width: 307px;
+}
+
+.desktop-1 .patent-nft-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 17.21px;
+  margin-top: 11px;
+  min-height: 27px;
+  width: 158px;
+}
+
+.desktop-1 .overlap-group {
+  align-self: center;
+  height: 31px;
+  margin-right: 2.31px;
+  margin-top: 2px;
+  position: relative;
+  width: 276px;
+}
+
+.desktop-1 .creator {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+  width: 158px;
+}
+
+.desktop-1 .x324-eth {
+  left: 102px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 174px;
+}
+
+.desktop-1 .polygon-5 {
+  height: 19px;
+  left: 156px;
+  position: absolute;
+  top: 4px;
+  width: 17px;
+}
+
+.desktop-1 .group-30 {
+  align-items: flex-start;
+  align-self: flex-end;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.54px;
+  margin-left: 84px;
+  min-height: 354px;
+  transition: all 0.2s ease;
+  width: 313px;
+}
+
+.desktop-1 .group-30:hover {
+  transform: scale(1.1);
+}
+
+.desktop-1 .group-22-1 {
+  background-image: url(../img/rectangle-26-8@2x.png);
+  height: 283px;
+  margin-left: 0;
+  width: 307px;
+}
+
+.desktop-1 .group-31 {
+  align-items: flex-start;
+  align-self: flex-end;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.08px;
+  margin-left: 84px;
+  min-height: 354px;
+  transition: all 0.2s ease;
+  width: 313px;
+}
+
+.desktop-1 .group-31:hover {
+  transform: scale(1.1);
+}
+
+.desktop-1 .group-22-2 {
+  background-image: url(../img/rectangle-26-6@2x.png);
+  height: 283px;
+  margin-left: 0;
+  width: 307px;
+}
+
+.desktop-1 .group-25 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  margin-left: 59px;
+  min-height: 357px;
+  transition: all 0.2s ease;
+  width: 307px;
+}
+
+.desktop-1 .group-25:hover {
+  transform: scale(1.1);
+}
+
+.desktop-1 .group-22-3 {
+  background-image: url(../img/rectangle-26@2x.png);
+  height: 284px;
+  margin-left: 0;
+  width: 301px;
+}
+
+.desktop-1 .patent-nft-1-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 16.87px;
+  margin-top: 11px;
+  min-height: 27px;
+  width: 155px;
+}
+
+.desktop-1 .overlap-group-1 {
+  align-self: center;
+  height: 31px;
+  margin-right: 2.38px;
+  margin-top: 3px;
+  position: relative;
+  width: 270px;
+}
+
+.desktop-1 .creator-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+  width: 155px;
+}
+
+.desktop-1 .x324-eth-1 {
+  left: 100px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 170px;
+}
+
+.desktop-1 .polygon-5-1 {
+  height: 19px;
+  left: 153px;
+  position: absolute;
+  top: 4px;
+  width: 17px;
+}
+
+.desktop-1 .group-32 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  margin-left: 79px;
+  margin-top: 1px;
+  min-height: 354px;
+  padding: 0 0.0px;
+  width: 313px;
+}
+
+.desktop-1 .group-22-4 {
+  background-image: url(../img/rectangle-26-1@2x.png);
+  height: 283px;
+  width: 307px;
+}
+
+.desktop-1 .group-33 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  margin-left: 92px;
+  margin-top: 1px;
+  min-height: 354px;
+  padding: 0 0.0px;
+  width: 313px;
+}
+
+.desktop-1 .group-22-5 {
+  background-image: url(../img/rectangle-26-2@2x.png);
+  height: 283px;
+  width: 307px;
+}
+
+.desktop-1 .bottom-macbook {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 39px;
+  margin-left: 40.0px;
+  margin-top: 351px;
+  min-height: 370px;
+  width: 1284px;
+  z-index: 3;
+}
+
+.desktop-1 .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 61px;
+  min-width: 1258px;
+}
+
+.desktop-1 .name-of-website {
+  align-self: flex-end;
+  color: var(--white);
+  cursor: pointer;
+  font-family: var(--font-family-gotham_black-regular);
+  font-size: 40px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 58px;
+  width: 390px;
+}
+
+.desktop-1 .about-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 231px;
+  min-height: 58px;
+  text-align: right;
+  width: 126px;
+}
+
+.desktop-1 .support {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 80px;
+  min-height: 58px;
+  text-align: right;
+  width: 149px;
+}
+
+.desktop-1 .available-on {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 25px;
+  min-height: 58px;
+  text-align: right;
+  width: 257px;
+}
+
+.desktop-1 .flex-row-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 270px;
+  min-width: 1258px;
+}
+
+.desktop-1 .flex-col-4 {
+  align-items: flex-start;
+  gap: 91px;
+  min-height: 270px;
+  width: 343px;
+}
+
+.desktop-1 .the-description-of-o {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 159px;
+  width: 343px;
+}
+
+.desktop-1 .group-44 {
+  align-items: flex-start;
+  display: flex;
+  gap: 7px;
+  height: 20px;
+  margin-left: 2px;
+  min-width: 297px;
+}
+
+.desktop-1 .icon-copyright {
+  align-self: flex-end;
+  height: 19px;
+  margin-bottom: 0;
+  width: 19px;
+}
+
+.desktop-1 .all-copyrights-reserved {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  width: 269px;
+}
+
+.desktop-1 .flex-col-5 {
+  align-items: flex-start;
+  margin-left: 135px;
+  min-height: 270px;
+  width: 595px;
+}
+
+.desktop-1 .faqs-container {
+  height: 22px;
+  position: relative;
+  width: 498px;
+}
+
+.desktop-1 .fa-qs {
+  left: 229px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 269px;
+}
+
+.desktop-1 .fa-qs-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 269px;
+}
+
+.desktop-1 .support-centre-container {
+  height: 22px;
+  margin-top: 27px;
+  position: relative;
+  width: 498px;
+}
+
+.desktop-1 .support-centre {
+  left: 229px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 269px;
+}
+
+.desktop-1 .support-centre-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 269px;
+}
+
+.desktop-1 .contact-us-container {
+  height: 22px;
+  margin-top: 29px;
+  position: relative;
+  width: 498px;
+}
+
+.desktop-1 .contact-us {
+  left: 229px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 269px;
+}
+
+.desktop-1 .contact-us-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 269px;
+}
+
+.desktop-1 .terms-and-agreements {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 129px;
+  min-height: 19px;
+  width: 269px;
+}
+
+.desktop-1 .privacy-policy {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 22px;
+  min-height: 19px;
+  width: 163px;
+}
+
+.desktop-1 .flex-col-6 {
+  display: flex;
+  flex-direction: column;
+}
+
+.desktop-1 .group-22-6 {
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.desktop-1 .line {
+  height: 82px;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.desktop-1 .non-fungible-tokens-3 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  width: 981px;
+}
+
+.desktop-1 .x3 {
+  object-fit: cover;
+  position: absolute;
+}
